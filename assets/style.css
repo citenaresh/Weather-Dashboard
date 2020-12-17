@@ -1,0 +1,36 @@
+
+*{
+    box-sizing: border-box;
+    
+}
+
+body {
+    
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-repeat: no-repeat;
+    background-image: url(../assets/image/sunset.jpg);
+    background-size: cover;
+    
+}
+h3{
+    font-weight: bold;
+}
+.forecast{
+    
+    font-size: 0.9em;
+}
+span{
+    font-size: 1em;
+}
+li:hover{
+    background-color: lightslategray;
+    text-decoration: underline;
+}
+#searchDiv{
+    background-image: url(../assets/image/Cottesloe_beach.jpg);
+    background-size: cover;
+}
+h4{
+    color: white;
+}
