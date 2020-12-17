@@ -29,6 +29,7 @@ The current weather section includes the following items:
 * Humidity
 * Wind Speed
 * UV index
+
 The five day forecast section shows the following:
 * Date
 * Icon image
